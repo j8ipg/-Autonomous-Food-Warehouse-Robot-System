@@ -74,7 +74,9 @@ def warehouse_operation_cycle():
             drop_off_item(task)
 
         update_inventory_database(task)
-        return_to_idle_station_or_next_task()  '''
+        return_to_idle_station_or_next_task()
+
+```
 
 ## 🪜 Detailed Operational Steps
 
