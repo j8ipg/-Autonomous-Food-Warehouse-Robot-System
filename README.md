@@ -198,5 +198,4 @@ def warehouse_operation_cycle():
 
 ---
 
-## 📁 Project Directory Example
 
